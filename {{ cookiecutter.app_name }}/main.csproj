@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+  <ItemGroup>
+    <Reference Include="System"></Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="main.cs"></Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"></Import>
+</Project>
